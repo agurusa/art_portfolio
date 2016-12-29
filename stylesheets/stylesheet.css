@@ -1,0 +1,38 @@
+/*default*/
+/*add fonts*/
+
+html{
+  font-family:"Pt Sans Narrow";
+  color:#404040;
+}
+
+main{
+  text-align:center;
+}
+
+header{
+  text-align:center;
+}
+
+h1{
+  font-size:4em;
+  letter-spacing:8px;
+  font-size:4em;
+  clear:both;
+}
+
+footer{
+  font-family:"Pt Sans Narrow";
+  color:black;
+  letter-spacing:6px;
+  font-size: 1em;
+  text-align:center;
+  width:100%;
+  position:fixed;
+  bottom:0%;
+  background-color:white;
+}
+footer a{
+  text-decoration:none;
+  color: black;
+}
